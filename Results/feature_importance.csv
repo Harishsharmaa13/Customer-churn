@@ -1,0 +1,15 @@
+Feature,Importance
+IsActiveMember,0.20571233
+Age,0.15292439
+Geography_Germany,0.13385497
+Gender_Male,0.09905377
+Gender_Female,0.08054943
+NumOfProducts,0.08019379
+Geography_France,0.057398487
+Geography_Spain,0.041481856
+Balance,0.036585264
+HasCrCard,0.0254068
+Tenure,0.022859534
+EstimatedSalary,0.02166505
+CreditScore,0.021366604
+CustomerId,0.020947667
