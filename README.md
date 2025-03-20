@@ -1,6 +1,6 @@
-##  Overview  
-This project analyzes **customer churn** using **Machine Learning (ML)** and **Power BI** to identify key factors influencing customer retention. The goal is to visualize insights and support data-driven decision-making.
+ Overview
 
+This project aims to analyze customer churn using Machine Learning (ML) and Power BI. The goal is to identify key factors influencing customer attrition, visualize trends, and provide actionable insights to help businesses improve customer retention.
 ---
 
 ##  Machine Learning (ML) Part  
